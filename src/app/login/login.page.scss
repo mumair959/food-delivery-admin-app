@@ -1,0 +1,22 @@
+.login-head{
+    font-size: 24px;
+    font-weight: bold;
+    color: #00e600;
+    margin-bottom: 30px;
+}
+
+.login-btn{
+    margin-top: 18px;
+}
+
+.input-style{
+    border-radius: 30px;
+}
+
+ion-item {
+    --highlight-color-focused: #00e600;
+}
+
+ion-content.background{
+    --background: url('../../assets/backgrounds/login.png') 0 0/100% 100% no-repeat;
+}
